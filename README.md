@@ -31,10 +31,7 @@ ________________________________________________________________________________
 **💡 Aprendizaje:** Proyecto enfocado en validar la calidad visual y la consistencia entre navegadores. Me ayudó a consolidar buenas prácticas de diseño de checklists y reporte de bugs de UI con evidencia clara.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-✏️Tester by: Gerardo Vargas Ventura ● QA Engineer
-
-Contactos:
-
-🖥️Linkedln: www.linkedin.com/in/gerardo-vargas-ventura1999
-📩Correo: jerryjym352@gmail.com
+**✏️Tester by:** Gerardo Vargas Ventura ● QA Engineer
+**🖥️Linkedln:** www.linkedin.com/in/gerardo-vargas-ventura1999
+**📩Correo:** jerryjym352@gmail.com
 
