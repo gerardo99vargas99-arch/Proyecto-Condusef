@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 **📂 Evidencia:** [🔗 Ver Checklist y Bug Report](https://docs.google.com/spreadsheets/d/14F2KkiefHC7NZCgrfLGfHaeiqM2ncOzTBclDjuJVirc/edit?usp=sharing)
 
-**💡 Aprendizaje:** #### :bulb: Conclusiones y Aprendizajes - Proyecto Condusef
+**💡 Aprendizaje:**
 
 Este proyecto representó un reto diferente a los e-commerce tradicionales, al tratarse de un portal gubernamental donde la claridad de la información, la confianza y la consistencia visual son críticas para el usuario final.
 
