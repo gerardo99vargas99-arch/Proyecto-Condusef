@@ -1,4 +1,5 @@
 # 🏛️ Testing de Diseño UI para portal "Condusef"
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ### 🎯 Objetivo
 Validar la consistencia visual y funcional del portal mediante pruebas de UI y compatibilidad cruzada (Cross-Browser Testing) en Chrome y Firefox.
@@ -13,6 +14,7 @@ Validar la consistencia visual y funcional del portal mediante pruebas de UI y c
 - Identifiqué y reporté **defectos visuales / UI** que afectaban la experiencia de usuario.
 - **1 Bug reportado en Jira** con pasos, evidencia y entorno.
 - Aseguré la consistencia de la interfaz en los dos navegadores principales, fortaleciendo mis habilidades en **UI Testing**.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ### 🛠️ Tech Stack
 
@@ -27,5 +29,12 @@ Validar la consistencia visual y funcional del portal mediante pruebas de UI y c
 **📂 Evidencia:** [🔗 Ver Checklist y Bug Report](https://docs.google.com/spreadsheets/d/14F2KkiefHC7NZCgrfLGfHaeiqM2ncOzTBclDjuJVirc/edit?usp=sharing)
 
 **💡 Aprendizaje:** Proyecto enfocado en validar la calidad visual y la consistencia entre navegadores. Me ayudó a consolidar buenas prácticas de diseño de checklists y reporte de bugs de UI con evidencia clara.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+✏️Tester by: Gerardo Vargas Ventura ● QA Engineer
+
+Contactos:
+
+🖥️Linkedln: www.linkedin.com/in/gerardo-vargas-ventura1999
+📩Correo: jerryjym352@gmail.com
 
