@@ -28,12 +28,17 @@ ________________________________________________________________________________
 
 **📂 Evidencia:** [🔗 Ver Checklist y Bug Report](https://docs.google.com/spreadsheets/d/14F2KkiefHC7NZCgrfLGfHaeiqM2ncOzTBclDjuJVirc/edit?usp=sharing)
 
-**💡 Aprendizaje:** Proyecto enfocado en validar la calidad visual y la consistencia entre navegadores. Me ayudó a consolidar buenas prácticas de diseño de checklists y reporte de bugs de UI con evidencia clara.
+**💡 Aprendizaje:** #### :bulb: Conclusiones y Aprendizajes - Proyecto Condusef
+
+Este proyecto representó un reto diferente a los e-commerce tradicionales, al tratarse de un portal gubernamental donde la claridad de la información, la confianza y la consistencia visual son críticas para el usuario final.
+
+A nivel técnico, consolidé mi experiencia en **UI Testing y Cross-Browser Testing**, comprendiendo cómo pequeñas inconsistencias visuales entre Chrome y Firefox pueden generar desconfianza o confusión. Aprendí a ir más allá del "se ve bien", para validar sistemáticamente tipografía, alineación, espaciado y comportamiento responsivo a través de una checklist estructurada.
+
+A nivel de proceso, este ejercicio fortaleció mi flujo de trabajo como QA: desde la etapa de **Exploratory Testing para reconocer el SUT**, pasando por el diseño de casos de verificación, hasta el **reporte formal en Jira con evidencia, severidad y entorno**. Sin duda, un proyecto que elevó mi criterio para evaluar la calidad desde la perspectiva del usuario y del negocio.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-**✏️Tester by:** Gerardo Vargas Ventura ● QA Engineer
+### ✏️Tester by: Gerardo Vargas Ventura ● QA Engineer
 
 **🖥️Linkedln:** www.linkedin.com/in/gerardo-vargas-ventura1999
 
 **📩Correo:** jerryjym352@gmail.com
-
