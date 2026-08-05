@@ -26,6 +26,6 @@ Validar la consistencia visual y funcional del portal mediante pruebas de UI y c
 
 **📂 Evidencia:** [🔗 Ver Checklist y Bug Report](https://docs.google.com/spreadsheets/d/14F2KkiefHC7NZCgrfLGfHaeiqM2ncOzTBclDjuJVirc/edit?usp=sharing)
 
-**💡 Aprendizaje**: Proyecto enfocado en validar la calidad visual y la consistencia entre navegadores. Me ayudó a consolidar buenas prácticas de diseño de checklists y reporte de bugs de UI con evidencia clara.
+**💡 Aprendizaje:** Proyecto enfocado en validar la calidad visual y la consistencia entre navegadores. Me ayudó a consolidar buenas prácticas de diseño de checklists y reporte de bugs de UI con evidencia clara.
 
 
